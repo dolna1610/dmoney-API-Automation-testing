@@ -25,10 +25,7 @@
 https://documenter.getpostman.com/view/18235608/2s7ZLdMYtB
 
 ## Test Case
-[google excl sheet link]
-
-## Bugs and improvement
-[google excl sheet link]
+https://docs.google.com/spreadsheets/d/1p-MzMDAhXj2_Hsfh_h7wuOjP3a-840Ib/edit#gid=1022604288
 
 ## Output
 ![newman2](https://user-images.githubusercontent.com/93023509/191961085-8e9a40f8-8ced-445b-982f-219b1796dae1.PNG)
