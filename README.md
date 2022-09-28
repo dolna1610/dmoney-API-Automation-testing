@@ -27,7 +27,7 @@ https://documenter.getpostman.com/view/18235608/2s7ZLdMYtB
 ## Test Case
 https://docs.google.com/spreadsheets/d/1p-MzMDAhXj2_Hsfh_h7wuOjP3a-840Ib/edit#gid=1022604288
 
-## Bugs Report and Improvement
+## Bug Report and Improvement
 https://docs.google.com/spreadsheets/d/1PPkBYRpivz0oAQrQuNd9sw9wdgNblgtXKrNh-j3y6ps/edit#gid=0 
 
 ## Output
