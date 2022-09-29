@@ -31,9 +31,12 @@ https://docs.google.com/spreadsheets/d/1p-MzMDAhXj2_Hsfh_h7wuOjP3a-840Ib/edit#gi
 https://docs.google.com/spreadsheets/d/1PPkBYRpivz0oAQrQuNd9sw9wdgNblgtXKrNh-j3y6ps/edit#gid=0 
 
 ## Output
-![newman2](https://user-images.githubusercontent.com/93023509/191961085-8e9a40f8-8ced-445b-982f-219b1796dae1.PNG)
-![nmn1](https://user-images.githubusercontent.com/93023509/191962287-3f2083cb-eb4e-43c4-997e-d4717cf34a95.PNG)
-![nmn2](https://user-images.githubusercontent.com/93023509/191962311-1b8bfeb5-2880-454f-ac8c-4e9d4fb3f94e.PNG)
+![new1](https://user-images.githubusercontent.com/93023509/192944380-ea07a6a9-a898-4bd2-b9f6-378c5321af9c.PNG)
+![new2](https://user-images.githubusercontent.com/93023509/192944397-c9c9110b-21be-4313-9fda-c6ebbabe578d.PNG)
+![new3](https://user-images.githubusercontent.com/93023509/192944419-9396bb69-0c33-4b44-8d86-828cb8cb85f3.PNG)
+![new44](https://user-images.githubusercontent.com/93023509/192944455-a0c0fbbb-9726-4336-b1e8-af2581dbd84b.PNG)
+![new5](https://user-images.githubusercontent.com/93023509/192944479-af365412-1715-4071-9fbd-ac36a8609d18.PNG)
+
 
 
 
