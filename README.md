@@ -22,7 +22,7 @@
 ***You must have installed nodejs in your system***
 
 ## API documents
-https://documenter.getpostman.com/view/18235608/2s7ZLdMYtB
+https://documenter.getpostman.com/view/18235608/2s83zfQ5Th
 
 ## Test Case
 https://docs.google.com/spreadsheets/d/1p-MzMDAhXj2_Hsfh_h7wuOjP3a-840Ib/edit#gid=1022604288
