@@ -19,7 +19,7 @@
 ``` npm test```
 
 ## Prerequisites
-***You must have installed nodejs in your system***
+***You must have installed node.js in your system***
 
 ## API documents
 https://documenter.getpostman.com/view/18235608/2s83zfQ5Th
