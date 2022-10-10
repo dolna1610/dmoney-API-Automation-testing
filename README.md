@@ -22,13 +22,13 @@
 ***You must have installed node.js in your system***
 
 ## API documents
-https://documenter.getpostman.com/view/18235608/2s83zfQ5Th
+Read the project [Documentation](https://documenter.getpostman.com/view/18235608/2s83zfQ5Th)
 
 ## Test Case
-https://docs.google.com/spreadsheets/d/1p-MzMDAhXj2_Hsfh_h7wuOjP3a-840Ib/edit#gid=1022604288
+Here is the [Test Cases](https://docs.google.com/spreadsheets/d/1p-MzMDAhXj2_Hsfh_h7wuOjP3a-840Ib/edit#gid=1022604288)
 
 ## Bug Report and Improvement
-https://docs.google.com/spreadsheets/d/1PPkBYRpivz0oAQrQuNd9sw9wdgNblgtXKrNh-j3y6ps/edit#gid=0 
+Here is the [Bug Report and Improvement](https://docs.google.com/spreadsheets/d/1PPkBYRpivz0oAQrQuNd9sw9wdgNblgtXKrNh-j3y6ps/edit#gid=0) 
 
 ## Output
 ![new1](https://user-images.githubusercontent.com/93023509/192944380-ea07a6a9-a898-4bd2-b9f6-378c5321af9c.PNG)
