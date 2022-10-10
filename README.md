@@ -15,8 +15,11 @@
 ## How to run this project
 - clone this project
 - hit following commands
-``` npm i ```
-``` npm test```
+<br>``` npm i ```</br>
+<br>``` npx newman run .\collection\collection.json -e -n l ```</br>
+<br>``` npm i newman-reporter-htmlextra ```</br>
+<br>``` node .\report.js ```</br>
+<br>``` npm test```</br>
 
 ## Prerequisites
 ***You must have installed node.js in your system***
